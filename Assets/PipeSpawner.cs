@@ -29,7 +29,6 @@ public class PipeSpawner : MonoBehaviour
         }
     }
 
-
     void spawnPipe()
     {
         float lowest = transform.position.y - heightOffset;
